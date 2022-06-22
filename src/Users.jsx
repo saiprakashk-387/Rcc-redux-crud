@@ -59,7 +59,7 @@ class Users extends Component {
             obj: { fname: this.state.fname },
                };
         this.props.updateUser(info);
-        console.log("fjdhgjhm");
+        // console.log("fjdhgjhm");
     };
     render() {
         return (
